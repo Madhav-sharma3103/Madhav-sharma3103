@@ -2,9 +2,8 @@
 - 👀 I’m interested in Machine learning and cloud computing
 - 🌱 I’m currently learning - C,javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me -<a href = "https://www.linkedin.com/in/madhav-sharma-9565202a6/">LinkedIn</a>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 technolevitator@gmail.com
+
 
 <!---
 Madhav-sharma3103/Madhav-sharma3103 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
